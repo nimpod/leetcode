@@ -10,4 +10,4 @@
 |905|Sort Array By Parity                |[Python](https://github.com/nimpod/leetcode/blob/master/algorithms/sort-array-by-parity/main.py)  [Java](https://github.com/nimpod/leetcode/blob/master/algorithms/sort-array-by-parity/Main.java)|Easy      |
 |657|Robot Return to Origin              |[Java](https://github.com/nimpod/leetcode/blob/master/algorithms/robot-returns-to-origin/Main.java)|Easy      |
 |942|DI String Match                     |[Java](https://github.com/nimpod/leetcode/blob/master/algorithms/di-string-match/Main.java)|Easy      |
-|728|Self Dividing Numbers               |[Java](https://github.com/nimpod/leetcode/blob/master/algorithms/self-dividing-numbers)|Easy      |
+|728|Self Dividing Numbers               |[Java](https://github.com/nimpod/leetcode/blob/master/algorithms/self-dividing-numbers/Main.java)|Easy      |

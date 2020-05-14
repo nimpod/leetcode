@@ -1,7 +1,9 @@
 |#  |Title                                   |Solution  |Difficulty|
 |:--|:---------------------------------------|:---------|:---------|
+|217|Contains Duplicate                      |[JavaScript](https://github.com/nimpod/leetcode/blob/master/algorithms/contains-duplicate/index.js)|Easy      |
 |448|Find all numbers disappeared in an array|[JavaScript](https://github.com/nimpod/leetcode/blob/master/algorithms/find-all-numbers-disappeared-in-an-array/index.js)|Easy      |
 |657|Robot Return to Origin                  |[Java](https://github.com/nimpod/leetcode/blob/master/algorithms/robot-returns-to-origin/Main.java)|Easy      |
+|696|Count Binary Substrings                 |[JavaScript](https://github.com/nimpod/leetcode/blob/master/algorithms/count-binary-substrings/index.js)|Easy      |
 |709|To Lower Case                           |[JavaScript](https://github.com/nimpod/leetcode/tree/master/algorithms/to-lower-case/index.js)                      |Easy      |
 |728|Self Dividing Numbers                   |[Java](https://github.com/nimpod/leetcode/blob/master/algorithms/self-dividing-numbers/Main.java)|Easy      |
 |771|Jewels and Stones                       |[JavaScript](https://github.com/nimpod/leetcode/blob/master/algorithms/jewels-and-stones/index.js)                  |Easy      |

@@ -15,5 +15,6 @@
 |961|N-Repeated Element in Size 2N Array     |[JavaScript](https://github.com/nimpod/leetcode/blob/master/algorithms/N-repeated-element-in-size-2N-array/index.js)|Easy      |
 |1021|Remove Outer Parentheses               |[Python](https://github.com/nimpod/leetcode/blob/master/algorithms/remove-outermost-parentheses/main.py)|Easy      |
 |1394|Find Lucky Integer in an Array         |[JavaScript](https://github.com/nimpod/leetcode/blob/master/algorithms/find-lucky-integer-in-an-array/index.js)|Easy      |
+|1480|Running Sum of 1D array                |[JavaScript](https://github.com/nimpod/leetcode/blob/master/algorithms/running-sum/index.js)|Easy         |
 
 I used GitHub Flavored Markdown Spec to make that(^) table, in case you were curious -> https://help.github.com/en/github/writing-on-github/organizing-information-with-tables

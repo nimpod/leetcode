@@ -1,5 +1,6 @@
 |#  |Title                                   |Solution  |Difficulty|
 |:--|:---------------------------------------|:---------|:---------|
+|14|Roman to Integer                         |[Java](https://github.com/nimpod/leetcode/blob/master/algorithms/roman-to-integer/Main.java)|Easy         |
 |217|Contains Duplicate                      |[JavaScript](https://github.com/nimpod/leetcode/blob/master/algorithms/contains-duplicate/index.js)|Easy      |
 |448|Find all numbers disappeared in an array|[JavaScript](https://github.com/nimpod/leetcode/blob/master/algorithms/find-all-numbers-disappeared-in-an-array/index.js)|Easy      |
 |657|Robot Return to Origin                  |[Java](https://github.com/nimpod/leetcode/blob/master/algorithms/robot-returns-to-origin/Main.java)|Easy      |

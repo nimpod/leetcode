@@ -26,5 +26,6 @@
 |1394|Find Lucky Integer in an Array         |[JavaScript](https://github.com/nimpod/leetcode/blob/master/algorithms/find-lucky-integer-in-an-array/index.js)|Easy      |
 |1480|Running Sum of 1D array                |[JavaScript](https://github.com/nimpod/leetcode/blob/master/algorithms/running-sum/index.js)|Easy         |
 |50|Pow(x, n)                                |[Java](https://github.com/nimpod/leetcode/blob/master/algorithms/pow/Main.java)|Medium         |
+|3|Longest Substring Without Repeating Characters|[Java](https://github.com/nimpod/leetcode/blob/master/algorithms/longest-substring-without-repeating-characters/Main.java)|Medium         |
 
 I used GitHub Flavored Markdown Spec to make that(^) table, in case you were curious -> https://help.github.com/en/github/writing-on-github/organizing-information-with-tables

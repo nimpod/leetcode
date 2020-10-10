@@ -6,6 +6,7 @@
 |13|Roman to Integer                         |[Java](https://github.com/nimpod/leetcode/blob/master/algorithms/roman-to-integer/Main.java)|Easy         |
 |14|Longest Common Prefix                    |[Java](https://github.com/nimpod/leetcode/blob/master/algorithms/longest-common-prefix/Main.java)|Easy         |
 |20|Valid Parentheses                        |[Java](https://github.com/nimpod/leetcode/blob/master/algorithms/valid-parentheses/Main.java)|Easy         |
+|104|Maximum Depth of Binary Tree            |[Python](https://github.com/nimpod/leetcode/blob/master/algorithms/maximum-depth-of-binary-tree/Main.py)|Easy         |
 |217|Contains Duplicate                      |[JavaScript](https://github.com/nimpod/leetcode/blob/master/algorithms/contains-duplicate/index.js)|Easy      |
 |448|Find all numbers disappeared in an array|[JavaScript](https://github.com/nimpod/leetcode/blob/master/algorithms/find-all-numbers-disappeared-in-an-array/index.js)|Easy      |
 |509|Fibonacci Number                        |[Python](https://github.com/nimpod/leetcode/blob/master/algorithms/fibonacci-number/Main.py)|Easy      |
